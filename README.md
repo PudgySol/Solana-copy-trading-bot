@@ -65,3 +65,6 @@ bot wallet:
 If you run a validator node on Solana, you have the ability to monitor and process transactions before they are confirmed on-chain. This allows you to execute trades ahead of the target wallet, leveraging real-time transaction data for a competitive advantage. By detecting incoming trades from specific wallets, you can automatically replicate or front-run profitable transactions, optimizing your trading strategy within milliseconds.
 
 This feature is particularly useful in copy trading bots, where transactions from successful traders are mirrored instantly, ensuring you never miss an opportunity in the fast-moving Solana ecosystem. 🚀
+
+## Contact
+**[@PudgySol_Dev](https://t.me/PudgySol_Dev)**
